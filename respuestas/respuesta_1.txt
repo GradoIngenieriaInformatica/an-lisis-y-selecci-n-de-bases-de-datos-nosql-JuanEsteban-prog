@@ -1,1 +1,4 @@
 TIPO | Justificación corta
+Base de datos de grafos
+Es la mejor opción porque el modelo relacional no es ideal haciendo JOINS para seguir conexiones indirectas. 
+Los grafos están optimizados matemáticamente para hacer recorridos rápidos entre nodos (usuarios/eventos) y analizar las relaciones complejas de forma nativa.

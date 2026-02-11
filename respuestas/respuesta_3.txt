@@ -1,1 +1,4 @@
 TIPO | Justificación corta
+Base de Datos columnares
+Es la única arquitectura capaz de soportar millones de escrituras por segundo sin colapsar, algo vital para IoT. 
+Además, al guardar los datos ordenados físicamente, es la más eficiente para hacer consultas por rangos de fechas.
