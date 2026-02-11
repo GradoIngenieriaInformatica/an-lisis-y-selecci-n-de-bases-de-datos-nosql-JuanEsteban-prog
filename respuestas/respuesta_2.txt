@@ -1,1 +1,4 @@
 TIPO | Justificación corta
+Base De datos documental
+Al pedir estructura variable y campos opcionales, 
+el modelo documental te permite guardar objetos (JSON) con estructuras diferentes en la misma colección sin tener que modificar la base de datos cada vez que el perfil evoluciona.
